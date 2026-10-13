@@ -1,0 +1,23 @@
+{
+  "name": "tendor-management",
+  "version": "1.0.0",
+  "description": "A comprehensive platform for managing tenders, matching companies with relevant opportunities, and streamlining the bidding process.",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishita0311/SmartBid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishita0311/SmartBid/issues"
+  },
+  "homepage": "https://github.com/Nishita0311/SmartBid#readme"
+}
